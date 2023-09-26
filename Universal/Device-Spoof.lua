@@ -1,3 +1,6 @@
+-- // Делал с тремя друзьями,гита у них нету. Контрибуту не могу указать \\
+-- ## Скрипт спуфает ваш девайс ##
+
 local UserInputService = game:GetService("UserInputService")
 local GuiService = game:GetService("GuiService")
 
